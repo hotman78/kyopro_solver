@@ -1,0 +1,2 @@
+# kyopro_solver
+kimiyukiさんのJikkaの触発されて作り始めました
